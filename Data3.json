@@ -1,0 +1,277 @@
+[
+    {
+        "id": 0,
+        "categorys": "Fractions",
+        "descriptions": " Part three of the followingStrand units: Counting and Numeration, Comparing and ordering, Place value, Operation (Addition, Subtraction) and Fractions",
+        "lessonsf": {
+            "id": 0,
+            "contentf": [
+                {
+                    "id": 0,
+                    "questions": "Double 2",
+                    "answers": "4"
+                },
+                {
+                    "id": 1,
+                    "questions": "Double 5",
+                    "answers": "10"
+                },
+                {
+                    "id": 2,
+                    "questions": " Double 9",
+                    "answers": "18"
+                },
+                {
+                    "id": 3,
+                    "questions": "Find Double 3",
+                    "answers": "6"
+                },
+                {
+                    "id": 4,
+                    "questions": "8 + 8 = ",
+                    "answers": "16"
+                },
+                {
+                    "id": 5,
+                    "questions": "Double 13?",
+                    "answers": "26"
+                    
+                },
+                {
+                    "id": 6,
+                    "questions": "What is 6 plus 6?",
+                    "answers": "6 + 6 = 12"
+                },
+                {
+                    "id": 7,
+                    "questions": "What is 9 plus 9?",
+                    "answers": "9 + 9 = 18"
+                },
+                {
+                    "id": 8,
+                    "questions": "What is 14 plus 14?",
+                    "answers": "14 + 14 = 28"
+                },
+                {
+                    "id": 9,
+                    "questions": "What is half of 8 blocks?",
+                    "answers": "4 blocks"
+                },
+                {
+                    "id": 10,
+                    "questions": "What is half of 16 pencils?",
+                    "answers": "8 pencils"
+                },
+                {
+                    "id": 11,
+                    "questions": "What is half of 20 stickers?",
+                    "answers": "10 stickers"
+                },
+                {
+                    "id": 12,
+                    "questions": "Find half of 12 pencils.",
+                    "answers": "6 pencils"
+                },
+                {
+                    "id": 13,
+                    "questions": "Find half of 18 stickers.",
+                    "answers": "9 stickers"
+                },
+                {
+                    "id": 14,
+                    "questions": "Find half of 20 crayons.",
+                    "answers": "10 crayons"
+                },
+                {
+                    "id": 15,
+                    "questions": "Half of 2",
+                    "answers": "1"
+                },
+                {
+                    "id": 16,
+                    "questions": "Half of 4",
+                    "answers": "2"
+                },
+                {
+                    "id": 17,
+                    "questions": "Half of 6",
+                    "answers": "3"
+                },
+                {
+                    "id": 18,
+                    "questions": "Half of 8",
+                    "answers": "4"
+                },
+                {
+                    "id": 19,
+                    "questions": "Half of 10",
+                    "answers": "5"
+                },
+                {
+                    "id": 20,
+                    "questions": "Half of 12",
+                    "answers": "6"
+                },
+                {
+                    "id": 21,
+                    "questions": "Half of 14",
+                    "answers": "7"
+                },
+                {
+                    "id": 22,
+                    "questions": "Half of 16",
+                    "answers": "8"
+                },
+                {
+                    "id": 23,
+                    "questions": "Half of 18",
+                    "answers": "9"
+                },
+                {
+                    "id": 24,
+                    "questions": "Half of 20",
+                    "answers": "10"
+                },
+                {
+                    "id": 25,
+                    "questions": "Double 1",
+                    "answers": "2"
+                },
+                {
+                    "id": 26,
+                    "questions": "Double 2",
+                    "answers": "4"
+                },
+                {
+                    "id": 27,
+                    "questions": "Double 3",
+                    "answers": "6"
+                },
+                {
+                    "id": 28,
+                    "questions": "Double 4",
+                    "answers": "8"
+                },
+                {
+                    "id": 29,
+                    "questions": "Double 5",
+                    "answers": "10"
+                },
+                {
+                    "id": 30,
+                    "questions": "Double 6",
+                    "answers": "12"
+                },
+                {
+                    "id": 31,
+                    "questions": "Double 7",
+                    "answers": "14"
+                },
+                {
+                    "id": 32,
+                    "questions": "Double 8",
+                    "answers": "16"},
+                { "id": 33,
+                    "questions": "Double 9",
+                    "answers": "18"},
+                {"id": 34,
+                    "questions": "What is the double of 7 ?",
+                    "answers": "14"
+                },
+                { "id": 35,
+                    "questions": "What is the double of 11 ?",
+                    "answers": "22"
+                }
+            ]
+        },
+        "Fractioncontent": {
+            "id": 0,
+            "fractionQuestions": [
+                {
+                        "id": 0,
+                        "questioning": "Match the picture to the fraction.",
+                        "choices": [
+                            {
+                                "id": 0,
+                                "guess": "1/2",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 1,
+                                "guess": "1/4",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "guess": "1/3",
+                                "isCorrect": false
+                            }
+                        ]
+
+                    },
+                        {
+                            "id": 1,
+                            "questioning": "Match the picture to the fraction.",
+                            "choices": [
+                                {
+                                    "id": 0,
+                                    "guess": "1/4",
+                                    "isCorrect": true
+                                },
+                                {
+                                    "id": 1,
+                                    "guess": "1/2",
+                                    "isCorrect": false
+                                },
+                                {
+                                    "id": 2,
+                                    "guess": "1/3",
+                                    "isCorrect": false
+                                }
+                            ]
+
+                        },
+
+                        {
+                            "id": 2,
+                            "questioning": "Sort the objects into whole or parts of a whole.",
+                            "choices": [
+                                {
+                                "id": 0,
+                                "guess": "Whole",
+                                "isCorrect": true
+                            },
+                                {
+                                    "id": 1,
+                                    "guess": "Part of a Whole",
+                                    "isCorrect": false
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 3,
+                            "questioning": "Sort the objects into whole or parts of a whole.",
+                            "choices": [
+                                {
+                                "id":0,
+                                "guess": "Part of a Whole",
+                                "isCorrect": true
+                            },
+                                {
+                                    "id":1,
+                                    "guess": "Whole",
+                                    "isCorrect": false
+                                }
+                            ]
+
+                        }
+                    ]
+                }
+
+
+        
+    }
+    
+    
+]
